@@ -2,7 +2,7 @@
 This project aims to design and train a convolutional neural network (CNN) on the CIFAR-10 dataset.
 
 <p align="left">
-  <img src="/Images/CIFAR-10.png" />
+  <img src="/Images/CIFAR-10.png" width="50%"/>
 </p>
 
 ## Ownership
@@ -12,8 +12,8 @@ This project is solely developed by Mantas Burcikas (Newcastle University).
 After implementing pre-defined CNN architecture, optimisation algorithm, image data augmentation techniques and tuning general model parameters, overall model train accuracy jumped to 94%, and test accuracy reached 89%. Both train and test losses were below 0.4. 
 
 <p align="left">
-  <img src="/Images/Final-model-accuracy-loss.jpg" height="400" />
-  <img src="/Images/Final-model-confusion-matrix.jpg" height="400" />
+  <img src="/Images/Final-model-accuracy-loss.jpg" width="50%" />
+  <img src="/Images/Final-model-confusion-matrix.jpg" width="50%" />
 </p>
 
 ## How to run a project?
@@ -27,5 +27,5 @@ implementing image data augmentation and tuning general training hyper-parameter
 size and the number of epochs.
 
 <p align="left">
-  <img src="/Images/Development-summary.png" />
+  <img src="/Images/Development-summary.png" width="100%"/>
 </p>
