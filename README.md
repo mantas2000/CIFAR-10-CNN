@@ -12,8 +12,8 @@ This project is solely developed by Mantas Burcikas (Newcastle University).
 After implementing pre-defined CNN architecture, optimisation algorithm, image data augmentation techniques and tuning general model parameters, overall model train accuracy jumped to 94%, and test accuracy reached 89%. Both train and test losses were below 0.4. 
 
 <p align="left">
-  <img src="/Images/Final-model-accuracy-loss.jpg" width="50%" />
-  <img src="/Images/Final-model-confusion-matrix.jpg" width="50%" />
+  <img src="/Images/Final-model-accuracy-loss.jpg" width="65%" />
+  <img src="/Images/Final-model-confusion-matrix.jpg" width="65%" />
 </p>
 
 ## How to run a project?
